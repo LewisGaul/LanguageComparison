@@ -1,0 +1,23 @@
+title: Coding Language Comparison
+url: https://lewisgaul.github.io
+baseurl: /LanguageComparison
+
+# Navigation
+nav:
+  - name: Home
+    href:
+  - name: About
+    href: /about
+
+# Languages
+languages:
+  - name: Python
+    href: /python
+  - name: C
+    href: /c
+
+
+include: ['_pages', 'languages']
+
+
+markdown: kramdown

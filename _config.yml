@@ -1,1 +1,13 @@
-theme: jekyll-theme-midnight
+title: Coding Language Comparison
+url: "https://lewisgaul.github.io/LanguageComparison"
+baseurl: ""
+
+# Navigation
+nav:
+  - name: "Home"
+    href: "/"
+
+include: ['_pages']
+
+
+markdown: kramdown

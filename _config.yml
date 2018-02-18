@@ -1,11 +1,13 @@
 title: Coding Language Comparison
-url: "https://lewisgaul.github.io/LanguageComparison"
-baseurl: ""
+url: "https://lewisgaul.github.io"
+baseurl: "/LanguageComparison"
 
 # Navigation
 nav:
   - name: "Home"
     href: "/"
+  - name: "About"
+    href: "/about"
 
 include: ['_pages']
 
